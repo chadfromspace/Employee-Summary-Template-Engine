@@ -46,4 +46,4 @@
   ## Questions
 
   Have a question? Email me directly at chadgtbootcamp@gmail.com.
-  Check out my other projects at [chadfromspace](https://github.com/chadfromspace)
+  Check out my other projects at [chadfromspace](https://github.com/chadfromspace).
